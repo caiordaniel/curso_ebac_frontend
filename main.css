@@ -105,3 +105,19 @@ section h2 {
 #economy .articles article a{
     background-color: #ff9f1a;
 }
+
+#art {
+    background-color: rgba(255,0,255,0.1);
+}
+
+#art .articles article a{
+    background-color: blueviolet;
+}
+
+#cars {
+    background-color: rgba(0,0,255,0.2);
+}
+
+#cars .articles article a{
+    background-color: blue;
+}
